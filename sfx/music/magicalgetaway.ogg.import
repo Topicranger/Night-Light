@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/magicalgetaway.ogg-35c5a2a13ac9cf6997e5dd58d96a43dd.oggstr"
+
+[deps]
+
+source_file="res://sfx/music/magicalgetaway.ogg"
+dest_files=[ "res://.import/magicalgetaway.ogg-35c5a2a13ac9cf6997e5dd58d96a43dd.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

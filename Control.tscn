@@ -1,0 +1,16 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://font.tres" type="DynamicFont" id=1]
+
+[node name="Control" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="Label" type="Label" parent="."]
+margin_left = 148.648
+margin_top = 96.7566
+margin_right = 192.648
+margin_bottom = 110.757
+custom_fonts/font = ExtResource( 1 )
+text = "A label"
+
