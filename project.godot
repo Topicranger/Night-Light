@@ -30,6 +30,11 @@ window/size/height=540
 window/stretch/mode="viewport"
 window/stretch/aspect="expand"
 
+[gui]
+
+theme/custom="res://main_theme.tres"
+theme/custom_font="res://fonts/main_font.tres"
+
 [rendering]
 
 quality/intended_usage/framebuffer_allocation=0
@@ -41,3 +46,4 @@ quality/shading/force_vertex_shading=true
 quality/subsurface_scattering/quality=0
 quality/voxel_cone_tracing/high_quality=false
 environment/default_environment="res://env.res"
+quality/dynamic_fonts/use_oversampling=false

@@ -850,7 +850,6 @@ margin_bottom = 160.0
 mouse_default_cursor_shape = 10
 min_value = -72.0
 max_value = 0.0
-ticks_on_borders = false
 
 [node name="anim" type="AnimationPlayer" parent="options"]
 anims/fade_in = SubResource( 21 )
